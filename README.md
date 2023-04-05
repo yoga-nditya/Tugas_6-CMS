@@ -1,16 +1,5 @@
-# Sitem Penjualan dengan Laravel 9
-
-## Tutorial
-1. Tutorial CRUD Laravel 9 (Sistem Penjualan)
-   <https://youtu.be/L0H330nUF_s>
-2. Tutorial Membuat Form Registrasi Laravel 9 (Sistem Penjualan)
-   <https://youtu.be/WqKPmKdicQo>
-3. Tutorial Membuat Form Login Laravel 9 (Sistem Penjualan)
-   <https://youtu.be/kn4il_tp9Vc>
-4. Tutorial Relasi Tabel Laravel 9 (Sistem Penjualan)
-   <https://youtu.be/bW4DS4ipLPw>
-5. Penerapan Level User Login Laravel 9 (Sistem Penjualan)
-   <https://youtu.be/-nLEq8Ilf8g>
+Nama : Yoga Aditya Nugraha 
+Asal : Universitas Nasional
 
 ## Installation
 1. Clone Repo
