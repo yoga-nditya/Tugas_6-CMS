@@ -30,7 +30,3 @@ Asal : Universitas Nasional
 | Name       | Link                                          |
 | ---------- | --------------------------------------------- |
 | SB Admin 2 | <https://startbootstrap.com/theme/sb-admin-2> |
-
-## Social Media
-[Instagram](https://instagram.com/galehludi)
-[Github](https://github.com/GalehLudi)
