@@ -1,5 +1,5 @@
-Nama : Yoga Aditya Nugraha 
-Asal : Universitas Nasional
+- Nama : Yoga Aditya Nugraha 
+- Asal : Universitas Nasional
 
 STACK yang Digunakan :
 
