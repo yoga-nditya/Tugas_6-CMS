@@ -1,6 +1,11 @@
 Nama : Yoga Aditya Nugraha 
 Asal : Universitas Nasional
 
+STACK yang Digunakan :
+
+Laravel V.9 
+Bootstrap Admin Tamplate
+
 ## Installation
 1. Clone Repo
     ```console
