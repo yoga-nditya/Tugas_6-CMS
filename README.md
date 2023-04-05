@@ -4,7 +4,7 @@ Asal : Universitas Nasional
 ## Installation
 1. Clone Repo
     ```console
-    git clone https://github.com/GalehLudi/Penjualan.git
+    git clone https://github.com/yoga-nditya/Tugas_6-CMS.git
     ```
 
 2. Run
