@@ -7,12 +7,14 @@ STACK yang Digunakan :
 - Bootstrap Admin Tamplate
 
 ## Installation
-1. Clone Repo
+1.Pertama-tama, kita perlu membuat file .env = copy .env.example .env
+
+2. Clone Repo
     ```console
     git clone https://github.com/yoga-nditya/Tugas_6-CMS.git
     ```
 
-2. Run
+3. Run
    ```console
    php artisan key:generate
    ```
@@ -25,10 +27,12 @@ STACK yang Digunakan :
    php artisan db:seed
    ```
 
-3. Run server
+4. Run server
    ```console
    php artisan serve
    ```
+   
+5.Ketika sudah run/Masuk ke halaman login, Silahkan Register/Membuat akun Terlebih dahulu 
 
 ## Third Party
 ### Front End
