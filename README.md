@@ -15,6 +15,9 @@ STACK yang Digunakan :
     ```
 
 3. Run
+ ```console
+  composer install
+   ```
    ```console
    php artisan key:generate
    ```
